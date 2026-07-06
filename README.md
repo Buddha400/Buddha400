@@ -3,7 +3,6 @@
 <h3 align="center">
 Full Stack MERN Developer | React.js Enthusiast | IT Student from India
 </h3>
----
 
 ## 🚀 About Me
 
