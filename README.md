@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Buddhadeb Giri</h1>
 
 <h3 align="center">
-Full Stack MERN Developer | React.js Enthusiast | IT Student from India 🇮🇳
+Full Stack MERN Developer | React.js Enthusiast | IT Student from India
 </h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Buddha400&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
